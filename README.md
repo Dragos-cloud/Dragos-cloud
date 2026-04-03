@@ -24,9 +24,17 @@ Two kinds of things — both focused on making AI work in the real world:
 Branch LLM conversations like Git branches. Fork, cherry-pick commits, audit trail, RAG document grounding, visual tree view. Single HTML file, IndexedDB storage, no server required.
 `HTML` · `v2.0` · `MIT`
 
-### [BAI GOS Explorer — AI governance framework](https://github.com/Dragos-cloud/business-ai-governance-explorer) · [live demo](https://dragos-cloud.github.io/business-ai-governance-explorer/)
+### [ORAND BAI GOS Explorer — AI governance framework](https://github.com/Dragos-cloud/business-ai-governance-explorer) · [live demo](https://dragos-cloud.github.io/business-ai-governance-explorer/)
 Interactive reference for the ORAND Business AI Governance Support Framework. 13-layer architecture across 3 zones, 5 deployment states, 17-domain governance crosswalk.
 `HTML` · `v2.8` · `Framework BAI GOS v0.2`
+
+### [ORAND AI Governance Support Framework (BAI GOS) - Simulation](https://github.com/Dragos-cloud/business_ai_governance_operating_system)· [live demo][https://dragos-cloud.github.io/business_ai_governance_operating_system/)
+This repository features the UI simulation for the BAI GOS platform, bridging abstract business policy with executable constraints across various tiers of autonomous agents.
+`HTML` · `v02` · `Framework BAI GOS v0.2`
+
+### [BPMN Studio - customized bpmn.io to allow documentation export to pdf](https://github.com/Dragos-cloud/bpmn-studio-offline)
+Full off-line BPMN 2.0 modeling, Custom task names (Prod Line Task, Operator Task, etc.), Export to BPMN XML, SVG, and PDF, Multi-level PDF export - Includes both main process and sub-process diagrams.
+`HTML` · 'JS' · `bpmn.io`· `MIT`
 
 ### [Job description deep analyser](https://github.com/Dragos-cloud/job_description_analysis_local_llm)
 Analyse any job posting before applying — core competencies, red flags, interview prep, salary positioning, Myers-Briggs candidate profiling. Runs on LM Studio, nothing leaves your machine.
