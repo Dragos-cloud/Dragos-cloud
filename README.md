@@ -36,11 +36,11 @@ This repository features the UI simulation for the BAI GOS platform, bridging ab
 Full off-line BPMN 2.0 modeling, Custom task names (Prod Line Task, Operator Task, etc.), Export to BPMN XML, SVG, and PDF, Multi-level PDF export - Includes both main process and sub-process diagrams.
 `HTML` · 'JS' · `bpmn.io`· `MIT`
 
-### [Job description deep analyser](https://github.com/Dragos-cloud/job_description_analysis_local_llm) [live app](https://dragos-cloud.github.io/job_description_analysis_local_llm/)
+### [Job description deep analyser](https://github.com/Dragos-cloud/job_description_analysis_local_llm) · [live app](https://dragos-cloud.github.io/job_description_analysis_local_llm/)
 Analyse any job posting before applying — core competencies, red flags, interview prep, salary positioning, Myers-Briggs candidate profiling. Runs on LM Studio, nothing leaves your machine. To run it online you need to have LM Studio installed.
 `HTML` · 'JS' · `MIT`
 
-### [CV–JD evaluator](https://github.com/Dragos-cloud/local_jd_cv_evaluator) [live app](https://dragos-cloud.github.io/local_jd_cv_evaluator/)
+### [CV–JD evaluator](https://github.com/Dragos-cloud/local_jd_cv_evaluator) · [live app](https://dragos-cloud.github.io/local_jd_cv_evaluator/)
 Match your CV against a job description locally. Skills gap identification, fit score, CV optimisation advice, corporate jargon translation. No cloud, no API keys. To run it online you need to have LM Studio installed.
 `HTML` · 'JS' · `MIT`
 
